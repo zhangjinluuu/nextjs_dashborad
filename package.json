@@ -30,8 +30,8 @@
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
-      "bcrypt",
-      "sharp"
+      // "bcrypt",
+      // "sharp"
     ]
   }
 }
